@@ -14,6 +14,7 @@ This is a simple Python application built using the Tkinter library to enter and
 4. **Record Deletion**: Users can select and delete patient records from the list. A confirmation message is displayed after deletion.
 5. **Terms & Conditions**: Users must accept the terms and conditions before entering patient data.
 
+
    
 ## Prerequisites
 
@@ -26,6 +27,12 @@ To run this application, you need to have Python installed on your system. The a
 3. Run the following command to start the application:
 4. The application window will open, allowing you to use the data entry form and other features.
 
+<center>
+
+![image](https://github.com/karthikpohane/PythonGUI/assets/117158132/f89f9369-bd26-475e-bc8f-d26678b31277)
+
+ 
+</center>
 ## Usage
 
 ### Data Entry
