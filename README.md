@@ -33,6 +33,7 @@ To run this application, you need to have Python installed on your system. The a
 
  
 </center>
+
 ## Usage
 
 ### Data Entry
