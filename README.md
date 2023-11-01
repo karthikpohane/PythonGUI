@@ -49,9 +49,6 @@ To run this application, you need to have Python installed on your system. The a
 - Enter a name in the "Search by Name" field.
 - Click the "Search" button to find and highlight matching records in the list.
 
-## License
-This application is open-source and available under the MIT License. You are free to use, modify, and distribute it as needed.
-
 <hr>
 Feel free to contribute to and enhance this application. If you have any questions or encounter issues, please reach out to the author.
 Happy data entry and management!
