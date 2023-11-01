@@ -30,7 +30,8 @@ To run this application, you need to have Python installed on your system. The a
 <center>
 
 
-![image](https://github.com/karthikpohane/PythonGUI/assets/117158132/f89f9369-bd26-475e-bc8f-d26678b31277)
+![image](https://github.com/karthikpohane/PythonGUI/assets/117158132/d4a8b15a-3deb-4453-915b-72e33f141b2a)
+
 
 
  
