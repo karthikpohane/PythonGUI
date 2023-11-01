@@ -29,7 +29,9 @@ To run this application, you need to have Python installed on your system. The a
 
 <center>
 
+
 ![image](https://github.com/karthikpohane/PythonGUI/assets/117158132/f89f9369-bd26-475e-bc8f-d26678b31277)
+
 
  
 </center>
